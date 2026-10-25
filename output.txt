@@ -1,0 +1,26 @@
+[LOG] Course: Jeslyn Kyl Sesma, enrolled in PC16 - Mobile Development
+[LOG] Course: Juan Dela Cruz enrolled in PC16 - Mobile Development
+[LOG] Instructor: Prof. Reyes submitted 90 for Jeslyn Kyl Sesma, in Mobile Development
+Jeslyn Kyl Sesma,: Mobile Development = 90 recorded.
+[LOG] Instructor: Prof. Reyes submitted 89 for Jeslyn Kyl Sesma, in Integrative Programming & Technologies
+Jeslyn Kyl Sesma,: Integrative Programming & Technologies = 89 recorded.
+[LOG] Instructor: Prof. Reyes submitted 80 for Juan Dela Cruz in Mobile Development
+Juan Dela Cruz: Mobile Development = 80 recorded.
+[LOG] Instructor: Prof. Reyes submitted 84 for Juan Dela Cruz in Research Methods
+Juan Dela Cruz: Research Methods = 84 recorded.
+Invalid grade for Ethics. Must be 0-100.
+
+==== STUDENT REPORT ====
+--- Jeslyn Kyl Sesma, (2026-0001) | BSIT | Undergraduate (Year 3) ---
+ Mobile Development: 90
+ Integrative Programming & Technologies: 89
+ Average: 89.50
+ Passing grade: 75 = Passed
+--- Juan Dela Cruz (2026-0002) | MIT | Graduate ---
+ Mobile Development: 80
+ Research Methods: 84
+ Average: 82.00
+ Passing grade: 85 = Needs improvement
+ Thesis: Mobile App Performance
+
+Enrolled in PC16: 2
